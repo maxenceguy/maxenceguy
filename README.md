@@ -1,34 +1,34 @@
-# Hello, I'm mguy! 👋
+# Maxence Guy
+### Software Developer 
 
-I'm a student at [42 Lyon](https://www.42lyon.fr/) with a passion for coding and web development.
+Software engineering student at **42**. I focus on low-level system programming, network architecture, and full-stack development.
 
-- 📚 Studying at [42 Lyon](https://www.42lyon.fr/)
-- 🌐 Check out my projects at [42_public](https://github.com/maxenceguy/42_public)
-- 📧 Contact me at **mguy@student.42lyon.fr**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/maxence-guy-6210591b6)
-- 🤖 Contact me on Discord **maxence9436**
+---
 
-## Projects
+### 🛠️ Technical Stack
 
-- Basic website for a mutual health insurance compagny :
-**[SOMUCO](https://github.com/maxenceguy/somuco)**
+* **Languages:** C, C++, TypeScript, Python
+* **Technologies:** NestJS, React, SQLite, Docker, Nginx
+* **Core Interest:** System internals, Network protocols, Virtualization
 
-<!--
-A collection of web development projects I've worked on:
+---
 
-- [High School NSI lesson](https://github.com/maxenceguy)
-- [Project 2](https://github.com/mguy42/somuco/project2)
--->
+### 🚀 Technical Milestones
 
-## Skills
+* **Web Architecture:** Real-time full-stack systems (**ft_transcendence**)
+* **Network Programming:** Custom HTTP/1.1 server implementation (**webserv**)
+* **Computer Graphics:** Raycasting engine & optimization (**cub3D**)
 
-I'm proficient in:
+---
 
-- C
-- Python
-- HTML & CSS
-- Some JavaScript
-- Git & GitHub
-- Shell scripting
+### 📈 Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceguy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-nom)
+
+---
